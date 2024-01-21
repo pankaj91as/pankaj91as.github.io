@@ -1,9 +1,9 @@
 ---
 date: '2020-07-15'
-title: 'Technical Writer'
-company: 'iSmile Tech'
-range: 'July 2020 - August 2020'
-url: 'https://www.ismiletechnologies.com/'
+title: 'SR. Developer'
+company: 'WebMinds Infotech'
+range: 'May 2014 - July 2014'
+url: 'http://webmindsindia.com/'
 ---
 
 - Drafted all the website content and promotional templates on HubSpot for the startup.

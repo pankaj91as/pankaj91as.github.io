@@ -1,9 +1,9 @@
 ---
 date: '2018-05-10'
-title: 'Research Intern'
-company: 'XLRI'
-range: 'May - June 2018'
-url: 'https://www.xlri.ac.in/'
+title: 'JR. Developer'
+company: 'Net Rockers'
+range: 'October 2009 - September 2012'
+url: 'https://www.netrockers.com/'
 ---
 
 - Meta analysis and a literature review on the topics 'Knowledge Hiding', 'Ethical Leadership', 'Ethical Culture', 'Ethical Climate' and 'Unethical Behaviour'.

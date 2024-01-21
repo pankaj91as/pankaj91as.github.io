@@ -1,9 +1,9 @@
 ---
 date: '2020-07-30'
-title: 'Software Developer'
-company: 'Amdocs'
-range: 'July 2020 - Present'
-url: 'https://www.amdocs.com/'
+title: 'Team Lead'
+company: 'Modern I InfoTech'
+range: 'March 2015 - December 2016'
+url: 'https://moderni.in/'
 ---
 
 - Responsible for code development, UAT support, automation of Bell Canada NM1-RTB customisation project as part of Digital Delivery scrum team. (Oct 2021 - present)

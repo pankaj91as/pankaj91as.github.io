@@ -6,7 +6,7 @@ module.exports = {
     'Pankaj Pawar, Pankaj, Pawar, pankaj91as, software developer, software engineer, freelancer',
   siteUrl: 'https://pankaj91as.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-WZQPLPD1MT',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Pankaj Pawar',
   location: 'Mumbai, India',
@@ -20,19 +20,19 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/pankajshashikantpawar/',
     },
     {
       name: 'Codepen',
       url: 'https://codepen.io/chandrikadeb7',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      name: 'Freelancer',
+      url: 'https://www.freelancer.com/u/pankaj91',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/NetworkersGroup',
     },
   ],
 

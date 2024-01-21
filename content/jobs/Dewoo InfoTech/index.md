@@ -1,9 +1,9 @@
 ---
 date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
-range: 'May - June 2019'
-url: 'http://www.centralcoalfields.in/ind/'
+title: 'SR. Developer'
+company: 'Dewoo Infotech'
+range: 'July 2014 - February 2015'
+url: 'https://www.dewooinfotech.in/'
 ---
 
 - Project on developing a fully working dynamic eCommerce website using PHP and MySQL.

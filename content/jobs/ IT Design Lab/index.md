@@ -1,9 +1,9 @@
 ---
 date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+title: 'JR. Developer'
+company: 'IT Design Lab'
+range: 'October 2012 - April 2014'
+url: 'https://itdesignlab.com/'
 ---
 
 - Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
