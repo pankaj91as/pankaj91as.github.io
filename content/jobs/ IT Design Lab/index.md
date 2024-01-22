@@ -6,10 +6,10 @@ range: 'October 2012 - April 2014'
 url: 'https://itdesignlab.com/'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
+- Develop an wordpress plugins
 
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
+- Verify backword compatablity
 
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
+- Blog submission on verious websites (SEO)
 
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Page Speed Optimization using lighthouse, pagespeed & gtmatrix tools

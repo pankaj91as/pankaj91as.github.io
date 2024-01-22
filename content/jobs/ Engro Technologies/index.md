@@ -6,6 +6,18 @@ range: 'April 2021 - Present'
 url: 'https://engro.io/'
 ---
 
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
-- View [CERTIFICATE](https://drive.google.com/file/d/1xc4SHoXSFWmLQfwBeYq7WwB5EjXsqMV9/view?usp=sharing) and [PERFORMANCE REVIEW REPORT](https://drive.google.com/file/d/1FVNB7SLHLwWB_QOSZFxIiSdy8O6Xbj2w/view?usp=sharing)
+- Requirement understanding & design technical architecture diagrams (Flow diagrams, Deployment Diagrams)
+
+- Create application documentation & give understanding to team leads & developers
+
+- Prepare an bootstrap version of application
+
+- Do a POC as required
+
+- Sprint Review & task planning
+
+- Code review, merging & deployments
+
+- Deployments using jenkins CI/CD, Git Workflow to Kubernetes, GCP & AWS
+
+- Maintain Code Quality using tools such sonarQube

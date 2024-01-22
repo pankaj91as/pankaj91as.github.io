@@ -147,7 +147,7 @@ module.exports = {
         ],
         gtagConfig: {
           send_page_view: true,
-          anonymize_ip: true
+          anonymize_ip: true,
         }
       },
     },
