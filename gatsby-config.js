@@ -146,7 +146,8 @@ module.exports = {
           config.googleAnalyticsID
         ],
         gtagConfig: {
-          send_page_view: true
+          send_page_view: true,
+          anonymize_ip: true
         }
       },
     },
