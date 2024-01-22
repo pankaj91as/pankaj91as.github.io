@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://pankaj91as.github.io/sitemap/sitemap-index.xml
+Sitemap: https://pankaj91as.github.io/sitemap-index.xml
 Host: https://pankaj91as.github.io
