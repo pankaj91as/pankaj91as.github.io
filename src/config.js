@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://pankaj91as.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-WZQPLPD1MT',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'Vs8RM3cgVpt5mUgcSkJsAkIFHSVGfQNRWliCZ6FoXBk',
   name: 'Pankaj Pawar',
   location: 'Mumbai, India',
   email: 'pankaj91as@gmail.com',
