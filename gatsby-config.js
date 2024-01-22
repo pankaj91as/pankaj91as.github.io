@@ -145,6 +145,9 @@ module.exports = {
         trackingIds: [
           config.googleAnalyticsID
         ],
+        gtagConfig: {
+          send_page_view: true
+        }
       },
     },
   ],
