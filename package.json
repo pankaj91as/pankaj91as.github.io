@@ -1,11 +1,11 @@
 {
-  "name": "v2",
-  "description": "Personal Website V2",
+  "name": "v1",
+  "description": "Development Profile",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Pankaj Pawar <pankaj91as@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/pankaj91as/pankaj91as.github.io"
   },
   "keywords": [
     "gatsby"
