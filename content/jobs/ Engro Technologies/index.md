@@ -2,7 +2,7 @@
 date: '2020-07-15'
 title: 'Development Lead'
 company: 'Engro Technologies'
-range: 'April 2021 - Present'
+range: 'April 2021 - May 2024'
 url: 'https://engro.io/'
 ---
 

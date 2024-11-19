@@ -1,15 +1,19 @@
 ---
-date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+date: '2024-02-02'
+title: 'Stock Price Prediction Using LSTM'
+github: 'https://github.com/pankaj91as/Stock-Price-Prediction-Using-LSTM'
 external: ''
 tech:
   - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - LSTM
+  - Jupyter Notebook
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - yFinance
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Feature price prediction of stock time series data using LSTM model

@@ -1,8 +1,8 @@
 ---
 date: '2020-04-21'
 title: 'Portfolio Website v1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+github: 'https://github.com/pankaj91as/pankaj91as.github.io'
+external: 'https://pankaj91as.github.io/'
 tech:
   - HTML
   - CSS
